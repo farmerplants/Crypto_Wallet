@@ -8,7 +8,7 @@
 import os
 import requests
 from dotenv import load_dotenv, find_dotenv
-load_dotenv(find_dotenv('mnemonic.env')
+load_dotenv(find_dotenv('/Users', 'tylerhubbard', 'umnfintech', 'Blockchain', 'Crypto_Wallet', 'mnemonic.env')
 from bip44 import Wallet
 from web3 import Account
 from web3 import middleware
