@@ -13,4 +13,7 @@
 #### Inspect the Transaction on Ganache
 
 ## Screenshots:
-![]
+![](https://github.com/farmerplants/Crypto_Wallet/blob/main/Resources%20and%20Solutions/Images/Screen%20Shot%202022-05-07%20at%201.16.41%20PM.png)
+![](https://github.com/farmerplants/Crypto_Wallet/blob/main/Resources%20and%20Solutions/Images/Screen%20Shot%202022-05-07%20at%201.35.54%20PM.png)
+![](https://github.com/farmerplants/Crypto_Wallet/blob/main/Resources%20and%20Solutions/Images/Screen%20Shot%202022-05-07%20at%201.36.57%20PM.png)
+![](https://github.com/farmerplants/Crypto_Wallet/blob/main/Resources%20and%20Solutions/Images/Screen%20Shot%202022-05-07%20at%201.37.21%20PM.png)
